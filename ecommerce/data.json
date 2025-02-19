@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Laptop",
+      "price": 999.99,
+      "description": "A high-performance laptop",
+      "imageUrl": "https://www.google.com/imgres?q=laptop&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F510uTHyDqGL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FMicrosoft-New-Surface-Laptop-7th%2Fdp%2FB0D926W4YN&docid=S3LkfjST4CF6vM&tbnid=tB8E56j3YG55YM&vet=12ahUKEwjPq6Pft8-LAxX3VWwGHWB3IgYQM3oECB0QAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwjPq6Pft8-LAxX3VWwGHWB3IgYQM3oECB0QAA"
+    },
+    {
+      "name": "Smartphone",
+      "price": 599.99,
+      "description": "A high-end smartphone with advanced features",
+      "imageUrl": "https://www.google.com/imgres?q=smartphone&imgurl=https%3A%2F%2Fcdn.thewirecutter.com%2Fwp-content%2Fmedia%2F2024%2F09%2Fiphone-2048px-6979.jpg%3Fauto%3Dwebp%26quality%3D75%26width%3D1024&imgrefurl=https%3A%2F%2Fwww.nytimes.com%2Fwirecutter%2Freviews%2Fbest-smartphones%2F&docid=03XG-dzspN1svM&tbnid=IfM4ILwEA4inXM&vet=12ahUKEwitiP3mt8-LAxXdb2wGHXAAMK4QM3oECBsQAA..i&w=1024&h=683&hcb=2&ved=2ahUKEwitiP3mt8-LAxXdb2wGHXAAMK4QM3oECBsQAA"
+    }
+  ]
